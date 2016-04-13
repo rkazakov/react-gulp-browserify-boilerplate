@@ -1,4 +1,4 @@
-# React Gulp Browserify hotreloading boilerplate
+# React Gulp Browserify boilerplate
 > Basic boilerplate project with React, Express, Gulp, Browserify and Stylus
 
 ## Modules
